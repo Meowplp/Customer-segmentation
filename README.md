@@ -97,8 +97,11 @@ Analysis of purchasing channels and historical marketing responses revealed that
 Age, family size, and education were also examined to develop interpretable customer profiles.
 
 <img width="1618" height="551" alt="image" src="https://github.com/user-attachments/assets/4a81bc2b-b7b5-49f4-85d6-a99492b4e84c" />
+
 Cluster 1 and Cluster 3 only contain customers of Graduate and Postgraduate levels while other clusters contains all three levels. Since the number of customers in Postgraduate level outweight the other groups, so the education factor might not be a good characteristic for this store's marketing campaign design
+
 <img width="595" height="584" alt="image" src="https://github.com/user-attachments/assets/9bdc8cda-195b-49d6-a7f8-98fe38a2d8f4" />
+
 Customers in cluster 0 have age range from above 20 to under 60
 Customers in cluster 1 have age range from 40 to under 80
 Customer in cluster 2 have age range from around 40 to 80
