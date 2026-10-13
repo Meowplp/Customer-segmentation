@@ -12,7 +12,8 @@ Using a grocery retailer's marketing dataset containing **2,240 customers and 29
 
 **Dataset:** [Marketing Campaign Dataset – Kaggle](https://www.kaggle.com/datasets/jackdaoud/marketing-data)
 
-## 1. Data Cleaning & Feature Engineering
+## EDA & Data Cleaning
+### 1. Data Cleaning & Feature Engineering
 
 The dataset was prepared through the following steps:
 
@@ -27,13 +28,13 @@ The dataset was prepared through the following steps:
 
 After preprocessing, **1,512 customer records** were retained for clustering.
 
-### Outlier Detection
+#### Outlier Detection
 
 Box plots were used to examine numerical distributions and identify potential outliers before applying IQR-based filtering.
 
 ![Outlier Detection](https://github.com/user-attachments/assets/41e31489-07db-443a-9059-19f2694cbfde)
 
-## 2. Exploratory Data Analysis
+### 2. Exploratory Data Analysis
 
 Exploratory analysis investigated customer demographics, household composition, spending patterns, and relationships between variables.
 
@@ -47,7 +48,7 @@ Exploratory analysis investigated customer demographics, household composition, 
 
 **Additional visualizations:** Customer age distribution, spending by family size, and correlation heatmap.
 
-## 3. Dimensionality Reduction & K-Means Clustering
+## Dimensionality Reduction & K-Means Clustering
 
 ### Principal Component Analysis (PCA)
 
@@ -65,7 +66,7 @@ The Elbow Method was used to evaluate different numbers of clusters based on wit
 
 The resulting clusters show differences in purchasing power, spending behavior, household composition, and shopping-channel preferences.
 
-## 4. Customer Segmentation Results
+## Customer Segmentation Results
 
 ### Income and Spending Analysis
 
